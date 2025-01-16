@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Super Efficient Power Saver Air Conditioner - 1.5 Ton",
+        "description": "This eco-friendly 1.5-ton solar-powered air conditioner, model 1XSE150, offers a sustainable cooling solution that reduces carbon emissions by up to 80%. With energy-efficient technology, it consumes only 3–4 units of electricity for 10 hours of use, saving up to 80% on electricity bills compared to regular ACs and 50% compared to 5-star split ACs.",
+        "price": 48400.00,
+        "category": "Solar Air Conditioner",
+        "features": "Eco-friendly cooling, Carbon emission reduction by up to 80%, Saves up to 80% on electricity bills, Turbo cooling mode, Anti-dust and bacterial filter, R32 refrigerant, Voltage fluctuation protection, Easy-to-clean filter, Smart installation, High air filtration efficiency (95%)"
+    },
+    {
+        "id": 2,
+        "name": "Super Efficient Power Saver Air Conditioner - 2 Ton",
+        "description": "The 2-Ton Super Efficient Power Saver Air Conditioner, model 2XES200, combines advanced cooling technology with energy efficiency, running on both electricity and solar power. With features like Digital Inverter Technology, Turbo Cooling Mode, and 5-in-1 Convertible Cooling, it ensures high performance and adaptability",
+        "price": 55660.00,
+        "category": "Solar Air Conditioner",
+        "features": "Dual power functionality (electricity and solar), Digital Inverter Technology, Turbo cooling mode, 5-in-1 Convertible Cooling, Anti-dust and bacterial filter, 3-Step Auto Cleaning, Coated copper tubes for durability, Operates in ambient temperatures of 15°C to 52°C, Environmentally friendly R32 refrigerant"
+    },
+    {
+        "id": 3,
+        "name": "Super Efficient Power Saver Air Conditioner - 2.5 Ton",
+        "description": "The 2.5 Ton Super Efficient Power Saver Air Conditioner, model 3XES250, combines energy efficiency, advanced cooling, and eco-friendly performance. It runs on both electricity and solar power, offering flexibility and reduced energy costs. With Digital Inverter Technology, Turbo Cooling Mode, and a 5-in-1 Convertible Mode, it ensures optimal comfort and adaptability. Built with durable coated copper tubes, it performs efficiently in temperatures ranging from 15°C to 52°C, making it suitable for challenging climates.",
+        "price": 71244.00,
+        "category": "Solar Air Conditioner",
+        "features": "Dual power functionality (electricity and solar), Digital Inverter Technology, Turbo cooling mode, 5-in-1 Convertible Cooling, Anti-dust and bacterial filter, 3-Step Auto Cleaning, Coated copper tubes for durability, Operates in ambient temperatures of 15°C to 52°C, Environmentally friendly R32 refrigerant, Smart installation, Easy-to-clean filter"
+    },
+    
+    {
+        "id": 4,
+        "name": "Super Efficient Power Saver Solar Air Conditioner 1X/2X Extendable",
+        "description": "The Super Efficient Power Saver Solar Air Conditioner 1X/2X Extendable is a hybrid solar-powered air conditioner designed for energy efficiency and reliable performance. Operating on solar power during the day and electricity as needed, it minimizes energy costs while delivering superior cooling. With Digital Inverter Technology, Turbo Cooling Mode, and a 5-in-1 Convertible System, it adapts to a variety of environments. Built with R32 Refrigerant and featuring long-term warranties, it ensures eco-friendliness, durability, and healthy air quality.",
+        "price": 50000.00,
+        "category": "Solar Air Conditioner",
+        "features": "Hybrid operation (solar and electricity), Digital Inverter Technology, Turbo Cooling Mode, 5-in-1 Convertible Cooling, Anti-dust and bacterial filter, R32 refrigerant gas, 3-Step Auto Cleaning, Coated copper tubes for durability, Operates in ambient temperatures of 15°C to 52°C, Smart installation, Easy-to-clean filter, 10-year compressor warranty"
+    },
+
+    {
+        "id": 5,
+        "name": "Solar Air Conditioner 1.5 Ton (1XBDS)",
+        "description": "The Solar Air Conditioner 1.5 Ton (1XBDS) is a battery-direct solar-powered AC that operates on solar energy during the day and switches to an inverter battery at night. It provides energy independence and reduces reliance on grid electricity. With Turbo Cooling Mode, R32 Refrigerant Gas, and a 5-in-1 Convertible feature, it ensures efficient cooling and eco-friendliness. The package includes 6 solar panels, a 3400VA wall-mounted lithium inverter, and a 300Ah lithium battery, offering a complete energy-efficient cooling solution.",
+        "price": 267928.00,
+        "category": "Solar Air Conditioner",
+        "features": "Battery-direct solar operation, Turbo Cooling Mode, 5-in-1 Convertible Cooling, Anti-dust and bacterial filter, R32 refrigerant gas, 3-Step Auto Cleaning, Coated copper tubes, Operates in ambient temperatures of 15°C to 52°C, Includes 6 solar panels (350W each), 3400VA wall mount lithium inverter, 300Ah lithium battery, 10-year compressor warranty"
+    },
+    {
+        "id": 6,
+        "name": "Solar Hybrid Air Conditioner 1.5 Ton (1XODS)",
+        "description": "The Solar Hybrid Air Conditioner 1.5 Ton (1XODS) is an advanced cooling solution designed to maximize solar energy use and minimize grid power consumption. Operating primarily on solar energy (4A from solar panels) and drawing only 0.5A from the grid, it ensures significant savings on electricity bills. Featuring Turbo Cooling Mode, R32 Refrigerant Gas, and an Anti-Dust & Bacterial Filter, it provides efficient and eco-friendly cooling. With comprehensive installation, including solar panels, wiring, and setup, this hybrid AC is perfect for sustainable cooling needs.",
+        "price": 105000.00,
+        "category": "Solar Air Conditioner",
+        "features": "Hybrid operation (solar and grid), Turbo Cooling Mode, Low current consumption (4.5A total), R32 refrigerant gas, Anti-dust and bacterial filter, Voltage fluctuation protection, Easy filter maintenance, Includes 2 solar panels (350W each) or 1 panel (550W), Comprehensive installation (wiring, transportation, setup), Smart installation"
+    },
+    {
+        "id": 7,
+        "name": "Solar Hybrid Air Conditioner 2 Ton (2XODS)",
+        "description": "The Solar Hybrid Air Conditioner 2 Ton (2XODS) utilizes advanced compressor technology and a hybrid power system to deliver exceptional cooling performance while minimizing energy consumption. It operates on both solar energy (4.5A from solar panels) and grid power (1A), providing significant energy savings. The unit uses R32 refrigerant for eco-friendliness, offers 18,000 BTU cooling capacity, and operates at 95% efficiency. With magnetic motion compressor technology and a BLDC fan mode, it ensures quiet, efficient cooling. This is the perfect choice for sustainable and powerful cooling.",
+        "price": 130000.00,
+        "category": "Solar Air Conditioner",
+        "features": "Hybrid operation (solar and grid), High cooling capacity (18,000 BTU), Energy-efficient (95% efficiency), Eco-friendly R32 refrigerant, Magnetic motion compressor, BLDC fan for quiet operation, Low current consumption (4.5A solar, 1A grid), Compatible with DC and AC volt power inputs, Quiet and efficient operation, Ideal for large rooms or spaces"
+    },
+    {
+        "id": 8,
+        "name": "Solar Hybrid Air Conditioner 2.5 Ton (3XODS)",
+        "description": "The Moseta Solar Hybrid Air Conditioner 2.5 Ton (3XODS) combines solar energy and grid power for a highly cost-effective and sustainable cooling solution. With three 550W solar panels, this system reduces electricity bills and carbon footprints. The 2.5-ton cooling capacity makes it perfect for large homes or commercial spaces. Equipped with advanced smart inverter technology, R32 refrigerant, and energy-efficient features, it ensures powerful cooling while minimizing energy consumption. The system includes all components for easy installation, making it a hassle-free solution for effective and eco-friendly cooling.",
+        "price": 155000.00,
+        "category": "Solar Air Conditioner",
+        "features": "Hybrid operation (solar and grid), High cooling capacity (2.5 Ton), Energy-efficient with smart inverter technology, Eco-friendly R32 refrigerant, Includes three 550W solar panels, Outdoor unit stand structure, Wiring for easy installation, Optimized for solar energy use, Reduces electricity bills and carbon footprint, Ideal for large homes or commercial spaces"
+    },
+    {
+        "id": 9,
+        "name": "No Electric - No Grid - Direct Solar Air Conditioner",
+        "description": "The Moseta Solar Air Conditioner operates entirely on solar energy, using 6 high-efficiency 350W solar panels, eliminating the need for grid power. It provides eco-friendly, cost-effective cooling with minimal energy consumption. Designed for off-grid operation, this system ensures no power outages or electricity bills. With a durable and reliable build, it delivers consistent performance in various climates. Ideal for homes, offices, and remote locations, this air conditioner offers silent, hassle-free cooling and sustainability without relying on conventional power sources.",
+        "price": 130000.00,
+        "category": "Solar Air Conditioner",
+        "features": "100% Solar-powered operation, No grid or electricity required, Energy-efficient and eco-friendly, Off-grid operation, Silent cooling system, Hassle-free installation with 6 solar panels (350W each), Durable and reliable for diverse climates, Perfect for sustainable living, Ideal for homes, offices, and remote locations"
+    }       
+    
+]
