@@ -3,7 +3,7 @@ import './App.css';
 import { io } from 'socket.io-client';
 
 // Socket.io client connection
-const socket = io('http://localhost:3000'); // Update the URL if necessary
+const socket = io('/'); // Update the URL if necessary
 
 function App() {
   const [userMessage, setUserMessage] = useState('');
